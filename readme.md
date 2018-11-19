@@ -85,7 +85,19 @@ Use [https://www.pdfaid.com/ExtractImages.aspx](https://www.pdfaid.com/ExtractIm
 
 When uploading images make sure the large size is selected
 
+## Linking New Location
 
+Steps:
+
+Open Full Report in Rob's Sample
+Excel PDF List - Copy PDF link (column K)
+"Find" PDF link in Excel Sheet 3
+Excel Sheet 3 (Column H) Production Link - Shows what the articles look like live
+Excel Sheet 3 (Column I) Q2 - Staging Page
+Excel Sheet 3 (Column J) Source Code / Edit Link
+Edit New Link - Absolute Link
+Excel PDF List - paste new link to "Converted_URL" (Column I)
+Repeat for all rows highlighted during step 3
 
 ## High Level Tagging
 

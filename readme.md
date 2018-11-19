@@ -210,3 +210,18 @@ Apply tags for each article from the following list
 ## Update all links so it points ot the new post
 
 Go to [Rob will provide link](#) and assign a document to yourself
+
+## Linking New Location 
+
+Steps: 
+
+1. Open Full Report in Rob's Sample
+2. Excel PDF List - Copy PDF link (column K)
+3. "Find" PDF link in Excel Sheet 3 
+4. Excel Sheet 3 (Column H) Production Link - Shows what the articles look like live 
+5. Excel Sheet 3 (Column I) Q2 - Staging Page 
+6. Excel Sheet 3 (Column J) Source Code / Edit Link 
+7. Edit New Link - Absolute Link 
+8. Excel PDF List - paste new link to "Converted_URL" (Column I) 
+9. Repeat for all rows highlighted during step 3 
+
